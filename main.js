@@ -13,4 +13,4 @@ function filtrarAprovados(listaDeAlunos) {
 
 console.log(filtrarAprovados(alunos));
 
-// no terminal executar o camando "node main.js"
+// no terminal executar o comando "node main.js"
